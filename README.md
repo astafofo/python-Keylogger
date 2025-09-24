@@ -24,7 +24,7 @@ Usage
 
 git clone
 
-https://github.com/rain-old/python-Keylogger.git
+https://github.com/astafofo/python-Keylogger.git
 
 cd python-Keylogger
 
